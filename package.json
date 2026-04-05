@@ -1,0 +1,12 @@
+{
+  "name": "flowright-plumbing-demo",
+  "version": "1.0.0",
+  "description": "FlowRight Plumbing Co. — BrandLifters demo site",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.3"
+  }
+}
